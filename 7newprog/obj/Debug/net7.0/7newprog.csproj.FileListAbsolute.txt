@@ -1,0 +1,14 @@
+/Users/bzick4/Desktop/visual/7newprog/7newprog/obj/Debug/net7.0/7newprog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bzick4/Desktop/visual/7newprog/7newprog/obj/Debug/net7.0/7newprog.AssemblyInfoInputs.cache
+/Users/bzick4/Desktop/visual/7newprog/7newprog/obj/Debug/net7.0/7newprog.AssemblyInfo.cs
+/Users/bzick4/Desktop/visual/7newprog/7newprog/obj/Debug/net7.0/7newprog.csproj.CoreCompileInputs.cache
+/Users/bzick4/Desktop/visual/7newprog/7newprog/bin/Debug/net7.0/7newprog
+/Users/bzick4/Desktop/visual/7newprog/7newprog/bin/Debug/net7.0/7newprog.deps.json
+/Users/bzick4/Desktop/visual/7newprog/7newprog/bin/Debug/net7.0/7newprog.runtimeconfig.json
+/Users/bzick4/Desktop/visual/7newprog/7newprog/bin/Debug/net7.0/7newprog.dll
+/Users/bzick4/Desktop/visual/7newprog/7newprog/bin/Debug/net7.0/7newprog.pdb
+/Users/bzick4/Desktop/visual/7newprog/7newprog/obj/Debug/net7.0/7newprog.dll
+/Users/bzick4/Desktop/visual/7newprog/7newprog/obj/Debug/net7.0/refint/7newprog.dll
+/Users/bzick4/Desktop/visual/7newprog/7newprog/obj/Debug/net7.0/7newprog.pdb
+/Users/bzick4/Desktop/visual/7newprog/7newprog/obj/Debug/net7.0/7newprog.genruntimeconfig.cache
+/Users/bzick4/Desktop/visual/7newprog/7newprog/obj/Debug/net7.0/ref/7newprog.dll
